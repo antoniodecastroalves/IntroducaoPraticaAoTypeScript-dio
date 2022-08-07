@@ -1,0 +1,18 @@
+{
+  "name": "introducao-pratica-ao-typescript-dio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specifield\" && exit 1"
+  },
+  "repository": "https://github.com/antoniodecastroalves/IntroducaoPraticaAoTypeScript-dio.git",
+  "author": "Antonio <antoniodecastroalves@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
